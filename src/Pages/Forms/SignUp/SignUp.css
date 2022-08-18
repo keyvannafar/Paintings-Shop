@@ -1,0 +1,17 @@
+.SignUpform{
+    width: 60% !important;
+    margin-left: 20%;
+}
+.card{
+    box-shadow: none;
+    border: none;
+}
+form span{
+    color: red;
+    font-weight: bold;
+    font-size: 14px;
+}
+.form-label{
+    font-size: 14px;
+    
+}

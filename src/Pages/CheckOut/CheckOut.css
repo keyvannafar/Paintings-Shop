@@ -1,0 +1,27 @@
+/* .gradient-custom {
+
+background: #6a11cb;
+
+
+background: -webkit-linear-gradient(to right, rgba(106, 17, 203, 1), rgba(37, 117, 252, 1));
+
+
+background: linear-gradient(to right, rgba(106, 17, 203, 1), rgba(37, 117, 252, 1))
+} */
+.mask{
+    background-color: rgba(251, 251, 251, 0.2)
+}
+.gradiant-custom{
+    border: 1px solid #bbb;
+}
+.cart-leer{
+    width: 100% !important;
+}
+.emptyCard{
+    width: 100%;
+    padding: 10px;
+    background-color: #fff;
+}
+#content{
+    width: 100% !important;
+}

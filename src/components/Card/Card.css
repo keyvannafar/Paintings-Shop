@@ -1,0 +1,33 @@
+.addqty{
+    display:flex;
+    flex-wrap: wrap;
+    width: 90%;
+    margin: auto;  
+}
+.addqty-1{
+    display:flex;
+    flex-wrap: wrap;
+    margin: auto;
+}
+.button-pm{
+    width:40px;
+    border: none;
+    border-radius: 5px;
+    margin: 0px 10px;
+    background-color: #6d7fcc !important
+}
+.btn-primary{
+    margin-top: 10px;
+}
+.card-img-top:hover{
+    transform: scale(1.02);
+    transition-duration: 1s;
+}
+.card-img-top{
+    width: 95%;
+    align-self: center;
+}
+
+.cardProduct{
+    box-shadow: 0px 0px 3px 3px rgb(255,255,255,0.5) !important;
+}

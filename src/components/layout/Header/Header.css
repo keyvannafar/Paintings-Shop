@@ -1,0 +1,85 @@
+.form-control{
+   background-color: rgb(118, 118, 118) !important;
+   background-color: #fff !important;
+   border: 1px solid #333333 !important;
+   border-radius: 0px !important;
+   color: #66cccc !important;
+}
+.btn-1{
+    background-color: #ff3333 !important;
+    border-radius: 0px !important;
+}
+/* .btn{
+    border: 0.5px solid rgb(118, 118, 118) !important;
+    border: none !important;
+} */
+.dropdown-toggle{
+    text-decoration: none !important;
+}
+.dropdown{
+    display: flex;
+}
+.bi-heart{
+    color: #ff3333;
+}
+/* .qty-cart{
+    position: absolute;
+    top:0;
+    left:50%;
+    transform: translate(-50%,0); 
+} */
+.awe{
+    color: #ff3333;
+}
+.font-size{
+    font-size: 13px;
+}
+/* .scroll{
+    position: fixed !important;
+    width: 100%
+} */
+.header{
+    background-color: #fff !important;
+    /* background-color: #363232 !important; */
+    
+    
+    color: #333333 !important;
+    color: #fff !important;
+    position: sticky;
+    top: 0;
+    z-index: 999;
+}
+.button-header{
+    display: flex;
+    
+    border: 1px solid #fff !important;
+    padding: 5px 5px;
+}
+.button-header span{
+    margin-right: 15px;
+    
+}
+.button-header a{
+    width: 100%;
+    margin-right: 0px;
+}
+a{
+    color: #000 !important
+}
+a:focus{
+    color: #660033;
+}
+.navbar{
+}
+.favUndermenu{
+    display: none;
+}
+.favMenu:hover .favUndermenu{
+    display: block !important;
+    
+}
+
+
+
+
+

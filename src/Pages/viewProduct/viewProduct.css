@@ -1,0 +1,27 @@
+.productZoom img {
+  width: 100%;
+  padding: 10px;
+}
+.productZoom {
+  width: 50%;
+}
+.productInfo {
+  width: 50%;
+}
+.productZoomBox {
+  width: 90% !important;
+  /* position: relative; */
+  /* left: 5%; */
+  top: 20px;
+  box-shadow: 0px 0px 15px 15px rgba(34, 23, 23, 0.1) !important;
+}
+.productZoomBox button {
+}
+
+/* .gradiant-custom {
+  background: linear-gradient(
+    to right,
+    rgba(106, 17, 203, 1),
+    rgba(37, 117, 252, 1)
+  );
+} */

@@ -1,0 +1,28 @@
+h2{
+    margin: 70px 0px 0px 0px;
+    /* text-align: center; */
+    color: #ff3333;
+    color: #330066;
+}
+.card-img-top{
+    
+}
+.homeCategories{
+   width: 60%; 
+   margin: auto;
+   background-color: rgba(255,255,255,0) !important;
+   box-shadow: none !important;
+   text-align: center;
+   border: none !important;
+}
+.homeCategories img{
+   width: 60%;
+   border: 7px solid #660033; 
+   box-shadow: 0px 0px 7px 7px #bbb;
+   margin: auto;
+   border-radius: 50%;
+}
+.catTitle{
+    text-align: center;
+     /* background-color: rgb(205,205,205);  */
+}

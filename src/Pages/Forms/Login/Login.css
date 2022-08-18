@@ -1,0 +1,17 @@
+.Loginform{
+    position: absolute;
+    top: 20%;
+    
+}
+.form-outline input{
+    border: 1px solid #383838 !important;
+    border-radius: 5px !important;
+}
+.btn-login{
+    background-color: #6d7fcc !important;
+}
+.form-bg{
+    background-color: #9A616D;
+    background-color: #ffcccc;
+    background-color: #fff;
+}

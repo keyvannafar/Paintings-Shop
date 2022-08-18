@@ -1,0 +1,27 @@
+.nav-link:hover{
+    color: #66cccc !important;
+    background-color: #330066 !important;
+}
+.nav-link{
+    color: #bbb !important;
+    color: #330066 !important;
+    padding: 16px !important;
+}
+.nav-link:focus{
+    color : #66cccc !important;
+    background-color: #330066 !important;
+}
+.nav-link:active{
+    color : #66cccc !important;
+    background-color: #330066 !important;
+}
+.navbar-toggler-icon{
+    border-radius: 3px;
+}
+.inline{
+    display: inline;
+}
+.navbar{
+    margin-bottom: 0px !important;
+    
+}
